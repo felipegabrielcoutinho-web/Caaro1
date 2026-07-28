@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: aliceblue;
+}
+
+.conteiner {
+    width: 700px;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+button {
+    padding: 15px;
+    background: white;
+    border-radius: 5px;
+    white-space: pre-line;
+}
